@@ -1,3 +1,7 @@
+---
+layout: post
+---
+
 # Jest Cheat Sheet In NodeJS
 
 - Mocking a function in the module
