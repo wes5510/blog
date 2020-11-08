@@ -1,5 +1,5 @@
 ---
-comments: true
+layout: post
 ---
 
 # Jest Cheat Sheet In NodeJS
