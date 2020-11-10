@@ -301,10 +301,4 @@ And I think that it is better to reduce duplicate code because side effects alwa
 
 **External Posts**
 
-- DEV
-
-    [How far will props go down?](https://dev.to/wes5510/how-far-will-props-go-down-2ab3)
-
-- Medium
-
-    [How far will props go down?](https://medium.com/@wes5510/how-far-will-props-go-down-bf0eaf1487ed)
+[DEV](https://dev.to/wes5510/how-far-will-props-go-down-2ab3), [Medium](https://medium.com/@wes5510/how-far-will-props-go-down-bf0eaf1487ed)
