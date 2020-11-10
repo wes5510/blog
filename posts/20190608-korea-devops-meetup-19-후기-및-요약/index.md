@@ -5,11 +5,7 @@
 ## 키노트
 
 - [Cloud Native Computing Foundation](https://www.cncf.io/)에서 DevOps의 주요 플로우를 볼 수 있음.
-- 아래는 CNCF Annual Report 2018의 [ECOSYSTEM TOOLS](https://www.cncf.io/cncf-annual-report-2018/#ecosystem-tools)의 한 부분이다
-
-![https://www.cncf.io/wp-content/uploads/2019/02/landscape.png](https://www.cncf.io/wp-content/uploads/2019/02/landscape.png)
-
-![https://www.cncf.io/wp-content/uploads/2019/02/CNCF_TrailMap_latest.png](https://www.cncf.io/wp-content/uploads/2019/02/CNCF_TrailMap_latest.png)
+- CNCF Annual Report 2018 [ECOSYSTEM TOOLS](https://www.cncf.io/cncf-annual-report-2018/#ecosystem-tools)
 
 ## 메가존&글로벌 클라우드 교육 프로그램 소개
 
