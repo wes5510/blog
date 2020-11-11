@@ -297,7 +297,7 @@ And I think that it is better to reduce duplicate code because side effects alwa
 
 **한국어**
 
-[과연 props는 어디까지 내려가는가](https://www.notion.so/props-4c2959719c654396b7b19f0754407dce)
+[과연 props는 어디까지 내려가는가](https://blog.bundles.dev/posts/20191021-과연-props는-어디까지-내려가는가)
 
 **External Posts**
 
