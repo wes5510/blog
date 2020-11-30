@@ -66,7 +66,7 @@ main()
         exports = function(changeEvent) {
           const docId = changeEvent.documentKey._id;
   
-          const mongodb = context.services.get("Cluster0"); // commentsLog가 있는 클러스터 이름이다. 잘못 넣으면 오류가 남.로그를 봐도 알기 어려움.
+          const mongodb = context.services.get("Cluster0"); // commentsLog가 있는 클러스터 이름이다. 잘못 넣으면 오류가 남.로그 봐도 알기 어려움.
           const logCollection = mongodb.db("test").collection("commentsLog");
           logCollection
             .insertOne({ commentId: docId, event: 'create' })
