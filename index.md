@@ -1,4 +1,5 @@
 # Posts
+### [Altas cloud의 trigger 테스트](https://blog.bundles.dev/posts/20201142-altas-trigger)
 ### [Jest Cheat Sheet In NodeJS](https://blog.bundles.dev/posts/20200820-jest-cheat-sheet-in-nodejs)
 ### [NodeJS에서의 Jest Cheat Sheet](https://blog.bundles.dev/posts/20200728-nodejs에서의-jest-cheat-sheet)
 ### [Things that were inconvenient while using Redux](https://blog.bundles.dev/posts/2020605-things-that-were-inconvenient-while-using-redux)
